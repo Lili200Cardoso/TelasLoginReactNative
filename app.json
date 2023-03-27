@@ -21,10 +21,17 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.lilicardoso.mylogin"
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "9bfde097-8035-4c4e-9c59-c5bf29c7309b"
+      }
+    },
+    "owner": "lilicardoso"
   }
 }
